@@ -1,7 +1,7 @@
 <?php
 define('SITE_TITLE','7Map Project');
-define('BASE_URL','http://localhost/learn/git/7Map/');
-define('BASE_PATH','C:/xampp/htdocs/learn/git/7Map/');
+define('BASE_URL','http://localhost/');
+define('BASE_PATH','C:/xampp/htdocs/');
 
 
 
